@@ -1,9 +1,9 @@
-variable "name" {
+# variable "name" {
     
-    default = "mesut"
+#     default = "mesut"
 
   
-}
+# }
 
 variable "location" {
     default = "West Europe"
