@@ -1,11 +1,12 @@
-variable "rg_name" {
+# variable "rg_name" {
     
-    default = "mesut"
+#     default = "mesut"
 
   
-}
+# }
 
-variable "location" {
-    default = "West Europe"
+# variable "location" {
+#     default = "West Europe"
   
-}
+# }
+
